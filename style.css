@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://media.istockphoto.com/photos/abstract-blurred-office-interior-background-picture-id1263838446?b=1&k=20&m=1263838446&s=170667a&w=0&h=Hn_lWW41nQ7N__6P4pYNuJTXPGjl1O7Q7IPT1OgohEM=); 
+    background-size: 200%;
+    background-position: -400px 0px;
+}
+h1{
+    font-style: italic;
+    font-size: 38px;
+    color: rgba(1, 15, 3, 0.705);
+}
+.main{
+    text-align: center;
+    margin-top: 30px;
+}
+table{
+    margin: auto;
+}
+input{
+    border: 4px solid #2f5052b4;
+    font-size: 40px;
+    border-radius: 20px;
+    background: rgb(184, 188, 189);
+}
+button{
+    font-size: 36px;
+    background: #0c0505d8;
+    color: rgb(6, 226, 98);
+    border-radius: 21px;
+    width: 95px;
+    height: 80px;
+}
+.calculator{
+    display: inline-block;
+    border: 4px solid black;
+    background: rgba(108, 170, 206, 0.493);
+    border-radius: 20px;
+}
